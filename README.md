@@ -26,4 +26,4 @@ Datasets are downloaded from Kaggle: https://www.kaggle.com/karangadiya/fifa19
 
 ## Conclusions drawn from dataset
 
-Counclusions can be seen in Conclusion.txt file.
+Counclusions can be seen in  [Conclusion.md](https://github.com/minchi19/FIFA-19---Exploratory-Data-Analysis/blob/master/Conclusion.md) file.

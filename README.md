@@ -1,6 +1,10 @@
 #            **                             FIFA-19---Exploratory-Data-Analysis
 
 
+![fifa19](https://user-images.githubusercontent.com/28960237/58747055-44b7f700-8483-11e9-9567-7e5eb6b3df02.jpg)
+
+
+
 FIFA 19 is a football simulation video game developed by EA Vancouver as part of Electronic Arts' FIFA series. FIFA 19 contains a rich dataset with plenty of attributes covering all aspects of a real-life footballer in an attempt to immitate him as much as possible in the virtual world. This rich dataset provides a huge oppurtunity for us, data scientists or data analysts to analyze and come up with visualizations and patterns. I will try to cover the following:
 
 - The dataset distribution based on player nationality, player overall rating, age vs overall rating, player valuation and so on.

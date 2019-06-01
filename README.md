@@ -11,7 +11,7 @@ FIFA 19 is a football simulation video game developed by EA Vancouver as part of
 - The patterns in the dataset
 - Top football playing Countries, Top Clubs, Top players and so on.
 
-### Analysis can be seen in ![FIFa 19.ipynb](https://github.com/minchi19/FIFA-19---Exploratory-Data-Analysis/blob/master/FIFA%2019.ipynb) file
+### Analysis can be seen in [FIFa 19.ipynb](https://github.com/minchi19/FIFA-19---Exploratory-Data-Analysis/blob/master/FIFA%2019.ipynb) file
 
 ## **Requirments **
 
